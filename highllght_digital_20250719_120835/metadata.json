@@ -1,0 +1,59 @@
+{
+  "url": "http://highllght.digital",
+  "timestamp": "20250719_120835",
+  "analysis_date": "2025-07-19T12:08:36.741899",
+  "status": "collected",
+  "notes": "Automated collection for phishing analysis",
+  "assets": {
+    "count": 9,
+    "total_size": 13641,
+    "total_size_human": "13.32KB",
+    "files": [
+      {
+        "path": "fade.gif",
+        "size": 828,
+        "size_human": "828.0B"
+      },
+      {
+        "path": "backblue.gif",
+        "size": 4243,
+        "size_human": "4.14KB"
+      },
+      {
+        "path": "hts-log.txt",
+        "size": 917,
+        "size_human": "917.0B"
+      },
+      {
+        "path": "index.html",
+        "size": 5222,
+        "size_human": "5.1KB"
+      },
+      {
+        "path": "hts-cache/new.zip",
+        "size": 740,
+        "size_human": "740.0B"
+      },
+      {
+        "path": "hts-cache/doit.log",
+        "size": 462,
+        "size_human": "462.0B"
+      },
+      {
+        "path": "hts-cache/new.lst",
+        "size": 70,
+        "size_human": "70.0B"
+      },
+      {
+        "path": "hts-cache/new.txt",
+        "size": 415,
+        "size_human": "415.0B"
+      },
+      {
+        "path": "highllght.digital/index.html",
+        "size": 744,
+        "size_human": "744.0B"
+      }
+    ]
+  }
+}
