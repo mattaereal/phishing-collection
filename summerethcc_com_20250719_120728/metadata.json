@@ -1,0 +1,59 @@
+{
+  "url": "http://summerethcc.com",
+  "timestamp": "20250719_120728",
+  "analysis_date": "2025-07-19T12:07:30.508638",
+  "status": "collected",
+  "notes": "Automated collection for phishing analysis",
+  "assets": {
+    "count": 9,
+    "total_size": 13588,
+    "total_size_human": "13.27KB",
+    "files": [
+      {
+        "path": "fade.gif",
+        "size": 828,
+        "size_human": "828.0B"
+      },
+      {
+        "path": "backblue.gif",
+        "size": 4243,
+        "size_human": "4.14KB"
+      },
+      {
+        "path": "hts-log.txt",
+        "size": 901,
+        "size_human": "901.0B"
+      },
+      {
+        "path": "index.html",
+        "size": 5216,
+        "size_human": "5.09KB"
+      },
+      {
+        "path": "hts-cache/new.zip",
+        "size": 725,
+        "size_human": "725.0B"
+      },
+      {
+        "path": "hts-cache/doit.log",
+        "size": 458,
+        "size_human": "458.0B"
+      },
+      {
+        "path": "hts-cache/new.lst",
+        "size": 68,
+        "size_human": "68.0B"
+      },
+      {
+        "path": "hts-cache/new.txt",
+        "size": 409,
+        "size_human": "409.0B"
+      },
+      {
+        "path": "summerethcc.com/index.html",
+        "size": 740,
+        "size_human": "740.0B"
+      }
+    ]
+  }
+}
