@@ -1,0 +1,12 @@
+HTTrack3.49-5 launched on Sat, 19 Jul 2025 12:01:47 at http://highllght.digital
+(httrack http://highllght.digital -O /home/irk/guild/phishing/collections/highllght_digital_20250719_120146 -r2 -s0 -a -E300 -m1000 -M100M -s0 -q )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:01:48	Warning: 	Moved Permanently for highllght.digital/
+12:01:48	Warning: 	Redirected link is identical because of 'URL Hack' option: highllght.digital/ and https://highllght.digital/
+12:01:48	Warning: 	File has moved from highllght.digital/ to https://highllght.digital/
+12:01:48	Warning: 	No data seems to have been transferred during this session! : restoring previous one!
