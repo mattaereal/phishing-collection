@@ -1,0 +1,8 @@
+http://highllght.digital -O /home/irk/guild/phishing/collections/highllght_digital_20250719_120835 -r2 -s0 -a -E300 -m1000 -M100M -s0 -q
+File generated automatically on Sat, 19 Jul 2025 12:08:35, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
