@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:08:36	317/317	---MC-	301	error ('Moved%20Permanently')	text/html	date:Sat,%2019%20Jul%202025%2015:08:36%20GMT	http://highllght.digital/	/home/irk/guild/phishing/collections/highllght_digital_20250719_120835/highllght.digital/index.html	(from )
